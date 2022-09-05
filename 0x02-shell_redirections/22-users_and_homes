@@ -1,2 +1,2 @@
+awk -F":" {print } /etc/passwd
 #!/bin/bash
-cut -d ":" -f 1,6 /etc/passwd
